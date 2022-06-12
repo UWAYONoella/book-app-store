@@ -27,6 +27,6 @@ This app has to parts: The first part is where you add a book title, author, pag
 
 <https://www.linkedin.com/in/UWAYO-Noella-a7851a124/>
 
-[Twitter: @Noella](https://twitter.com/Noella)
+[email: @Noella](https://twitter.com/Noella)
 
 <https://twitter.com/Noella>
