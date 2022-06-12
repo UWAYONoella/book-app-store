@@ -18,4 +18,15 @@ This app has to parts: The first part is where you add a book title, author, pag
 # Tools
 1. VS Code
 # Author
-# UWAYONoella
+## UWAYO Noella
+[Github: UWAYONoella
+
+https://github.comUWAYONoella
+
+LinkedIn: UWAYO Noella
+
+https://www.linkedin.com/in/UWAY-Noella-a7851a124/
+
+Twitter: @Noella
+
+https://twitter.com/Noella]
