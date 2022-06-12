@@ -19,14 +19,8 @@ This app has to parts: The first part is where you add a book title, author, pag
 1. VS Code
 # Author
 ## UWAYO Noella
-[Github: UWAYONoella]
+[Github: UWAYONoella](https://github.comUWAYONoella)
 
-(https://github.comUWAYONoella)
+[LinkedIn: UWAYO Noella](https://www.linkedin.com/in/UWAY-Noella-a7851a124/)
 
-[LinkedIn: UWAYO Noella]
-
-https://www.linkedin.com/in/UWAY-Noella-a7851a124/
-
-[Twitter: @Noella]
-
-(https://twitter.com/Noella)
+[Twitter: @Noella](https://twitter.com/Noella)
